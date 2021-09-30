@@ -1,0 +1,12 @@
+---
+title: res
+author: Parth Khare
+date: '2021-09-30'
+slug: res
+---
+
+
+# testing
+```r{}
+summary(cars)
+```
